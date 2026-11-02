@@ -112,7 +112,7 @@ data class — специальный класс Kotlin для хранения 
 <!-- Вставить скриншот структуры проекта IntelliJ IDEA -->
 
 ### Скриншот 2. Реализация базового синтаксиса
-![Структура проекта](screesrc/main/kotlin/screenshots/screen1.jpgnshots/screen1.png)
+![Структура проекта](screesrc/main/kotlin/screenshots/screen1.jpg)
 
 ### Скриншот 3. Реализация null-безопасности
 <!-- Вставить скриншот NullSafety.kt -->
